@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Proyecto de tesis-Enfoque Competitividad en los mercados internacionales: El caso de las exportaciones de arándano, comparativa Perú vs Chile, 2010-2022.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
